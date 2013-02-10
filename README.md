@@ -8,4 +8,4 @@ Turning on netfilter queue
 
 It's as simple as:
 
-  iptables -A INPUT -i vboxnet0 -j NFQUEUE
+    iptables -A INPUT -i vboxnet0 -j NFQUEUE
